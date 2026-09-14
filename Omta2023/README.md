@@ -1,4 +1,4 @@
-# NPZ
+# NPZ Omta et al. (2023)
 
 Code for the NPZ models used in Omta et al. (2023) with linear and hyperbolic closures; detailed instructions can be found in Instructions_NPZ.pdf. 
 
