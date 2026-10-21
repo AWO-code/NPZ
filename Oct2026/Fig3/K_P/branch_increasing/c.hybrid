@@ -1,0 +1,12 @@
+unames = {1: 'C', 2: 'Z'}
+parnames = {1: 'Ki', 2: 'K_N', 3: 'm_C', 4: 'u_Z', 5: 'K_C', 6:'m_Z', 7: 'd_Z', 8: 'K_Z', 9: 'N_tot'}
+NDIM = 2, IPS = 1, IRS = 10, ILP = 1
+ICP = ['Ki', 'N_tot']
+RL0 = 0.00001, RL1 = 100
+NTST = 15, NCOL = 4, IAD = 3, ISP = 1, ISW = 2, IPLT = 0, NBC = 0, NINT = 0
+NMX = 5000, NPR = 50, MXBF = -1, IID = 2, ITMX = 8, ITNW = 5, NWTN = 3, JAC = 0
+EPSL = 1e-07, EPSU = 1e-07, EPSS = 1e-05
+DS = 0.0001, DSMIN = 1e-07, DSMAX = 0.005, IADS = 1
+NPAR = 13, THL = {9: 1000.0}, THU = {}
+STOP = []
+UZR = {}
